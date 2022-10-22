@@ -40,7 +40,7 @@ Clone the project or download it directly
 Go to the project directory
 
 ```bash
-  cd php-assessment
+  cd PHP-Assessment
 ```
 
 Install dependencies
