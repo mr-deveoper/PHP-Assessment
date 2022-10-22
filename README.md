@@ -14,7 +14,7 @@ Simple Multivendor shop built with  Laravel Framework
 
 # Requirements
 
-- PHP `>= 8.0.1`
+- PHP `>= 8.0.2`
 - MySQL `>=5.7`
 - Composer installed
 - BCMath PHP Extension
@@ -34,7 +34,7 @@ Simple Multivendor shop built with  Laravel Framework
 Clone the project or download it directly
 
 ```bash
-  git clone https://github.com/mr-deveoper/php-assessment
+  git clone https://github.com/mr-deveoper/PHP-Assessment.git
 ```
 
 Go to the project directory
