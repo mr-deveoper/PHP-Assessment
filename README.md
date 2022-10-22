@@ -76,6 +76,12 @@ Start the server
   php artisan serv
 ```
 
+Broswe the frontend views on
+
+```bash
+  http://127.0.0.1:8000
+```
+
 
 ## Running Tests
 
